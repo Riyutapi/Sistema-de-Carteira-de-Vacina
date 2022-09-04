@@ -1,4 +1,4 @@
-# Sistema-de-Carteira-de-Vacina
+# Sistema de Carteira de Vacina
 Projeto para concluir a matéria de Algorítmos 1, realizada na UTFPR no campus Cornélio Procópio em 2022
 É um projeto de sistema de carteiras de vacinação da covid-19, sendo possivel adicionar até 100 pacientes com eles tendo no máximo 5 vacinas cada
 (sendo possível alterar esses valores caso necessário), alguns "pacientes" já estão cadastrados para realizar testes de funcionalidades
