@@ -3,6 +3,7 @@ Projeto para concluir a matéria de Algorítmos 1, realizada na UTFPR no campus 
 
 É um projeto de sistema de carteiras de vacinação da covid-19, sendo possivel adicionar até 100 pacientes com eles tendo no máximo 5 vacinas cada
 (sendo possível alterar esses valores caso necessário), alguns "pacientes" já estão cadastrados para realizar testes de funcionalidades
+
 Possui 6 opções:
 
 [1] Cadastrar paciente: verificando se as informações fornecidas como nome, telefone, data de nascimento, marca da vacina e data de aplicação da vacina estão corretas
